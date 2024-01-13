@@ -1,0 +1,16 @@
+Welcome to the ultimate guide to mastering Git & GitHub! In this comprehensive tutorial, you'll learn everything you need to know about Git and GitHub, from the very basics to advanced topics like branching, merging, and collaboration.
+
+But what sets this tutorial apart is the Desi twist! Your instructor, Harsh Sharma, is a talented educator and developer who will take you on a fun and engaging journey through the world of Git and GitHub using unique examples and analogies inspired by Indian culture.
+
+In this video, Harsh will guide you through the entire Git and GitHub workflow, starting with setting up your account and creating your first repository. You'll learn how to add, commit, and push changes, as well as how to collaborate with other developers using pull requests and code reviews.
+
+Along the way, Harsh will share practical tips and tricks to help you work more efficiently and avoid common mistakes. And with his friendly and accessible teaching style, you'll be able to follow along and master Git and GitHub in no time.
+
+Instructor in this video: Harsh Sharma
+
+Visit our website: https://sheryians.com/
+
+Socials:
+Instagram:  
+
+ / sheryians_coding_school  
